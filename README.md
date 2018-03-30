@@ -1,2 +1,2 @@
-# labseven
-DIG3408 labseven
+# JSPlatformer
+JS Platformer for DIG 3480C
